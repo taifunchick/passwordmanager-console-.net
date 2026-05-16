@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RwR5DE69wq0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\taifu\\PasswordManager\\PasswordManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\taifu\\.nuget\\packages\\system.security.cryptography.protecteddata\\10.0.8\\system.security.cryptography.protecteddata.10.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
